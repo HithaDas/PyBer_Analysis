@@ -3,6 +3,7 @@ Analyzing/ visualizing PyBer ridesharing data with Matplotlib and Pandas.
 
 # Resources
 Python 3.9.12 and Jupyter Notebook 3.3.2
+city_data.csv and ride_data.csv
 
 # Overview
 The purpose of this project is to perform data analysis of Pyber ride sharing data in order to understand ridership and fare relationship by the types of cities operated by Pyber. 
